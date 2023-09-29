@@ -1,0 +1,1 @@
+El avance contiene los objetos nesesarios para crear el main (los get y set estam puestos asi temporalmente para despues crear los constructores)
